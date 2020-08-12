@@ -89,9 +89,9 @@
     <AndroidResource Include="Resources\drawable\tab_feed.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\App1\SampleApp.csproj">
+    <ProjectReference Include="..\App1\App1.csproj">
       <Project>{FC7D4BB1-2348-4719-9C5C-C39132562577}</Project>
-      <Name>SampleApp</Name>
+      <Name>App1</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
